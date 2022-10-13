@@ -2,7 +2,7 @@
   "name": "ruby-dust",
   "displayName": "Ruby Dust",
   "description": "Dark them for ruby",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "NicScott",
   "engines": {
     "vscode": "^1.72.0"
@@ -10,6 +10,14 @@
   "icon": "images/icon.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "ruby",
+    "dark",
+    "dust",
+    "purple",
+    "blue"
   ],
   "contributes": {
     "themes": [
@@ -19,5 +27,10 @@
         "path": "./themes/Ruby Dust-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nlscott/Ruby-Dust"
+  },
+  "homepage": "https://github.com/nlscott/Ruby-Dust"
 }
