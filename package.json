@@ -2,10 +2,10 @@
   "name": "ruby-dust",
   "displayName": "Ruby Dust",
   "description": "Dark them for ruby",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "NicScott",
   "engines": {
-    "vscode": "^1.72.0"
+    "vscode": "^1.71.0"
   },
   "icon": "images/icon.png",
   "categories": [
