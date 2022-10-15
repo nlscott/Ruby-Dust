@@ -1,9 +1,18 @@
 # Change Log
 
-All notable changes to the "ruby-dust" extension will be documented in this file.
+---
+## Version 0.0.7
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added:
+- CHANGELOG.md
+- LICENSE.md
 
-## [Unreleased]
+### Changed:
+- icon
 
-- Initial release
+---
+## Version 0.0.6
+
+### Changed:
+- Scrollbar updates
+- Minimap update
