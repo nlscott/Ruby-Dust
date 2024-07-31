@@ -2,10 +2,10 @@
   "name": "ruby-dust",
   "displayName": "Ruby Dust",
   "description": "Dark them for ruby",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "publisher": "NicScott",
   "engines": {
-    "vscode": "^1.71.0"
+    "vscode": "^1.70.0"
   },
   "icon": "images/icon.png",
   "categories": [
@@ -25,6 +25,11 @@
         "label": "Ruby Dust",
         "uiTheme": "vs-dark",
         "path": "./themes/Ruby Dust-color-theme.json"
+      },
+      {
+        "label": "Ruby Dust Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ruby Dust Darker-color-theme.json"
       }
     ]
   },
